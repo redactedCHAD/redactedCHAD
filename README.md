@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on AnythingW eb3
 - 📫 How to reach me @zbailey83 (X)
-- ⚡ Fun fact: I'm R3DACTED.SOL
+- ⚡ Fun fact: I'm R3DACT.SOL
 
 <!---
 redactedCHAD/redactedCHAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
